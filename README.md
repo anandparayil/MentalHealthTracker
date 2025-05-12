@@ -26,7 +26,7 @@ A Java-based Mental Health Tracker app built with JavaFX and MySQL. It helps use
 ---
 
 ## 📂 Project Structure
-
+```
 src/
 ├── db/
 │   └── DBConnection.java
@@ -42,7 +42,7 @@ src/
 ├── utils/
 │   └── PasswordUtils.java
 └── Main.java
-
+```
 ---
 
 ## 👥 Authors
