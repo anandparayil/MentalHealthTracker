@@ -7,8 +7,8 @@ A Java-based Mental Health Tracker app built with JavaFX and MySQL. It helps use
 ## 🚀 Features
 
 - 🌤 **Mood Logging** – Log daily mood with a note
-- 📅 **Mood History** – View all past entries, filter by date/mood
 - 📊 **Mood Chart** – Visualize weekly/monthly mood trends
+- 📅 **Mood History** – View all past entries, filter by date/mood
 - 💬 **Daily Affirmations** – Random motivational quotes from DB
 - 🧘 **Meditation Links** – Access calming meditation resources
 - 🔔 **Check-In Reminders** – Daily prompts if user hasn't checked in
