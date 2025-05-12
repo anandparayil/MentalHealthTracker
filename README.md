@@ -52,7 +52,7 @@ src/
 ## 📄 License
 
 This project is licensed under the **Apache License 2.0**.  
-© 2025 Anand Parayil and your name
+© 2025 Anand Parayil and Eswar Telagamsetti
 
 See the [LICENSE](./LICENSE) file for more details.
 
